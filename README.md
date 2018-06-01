@@ -1,1 +1,1 @@
-mock simple registration form demo
+# Mock simple registration form demo
